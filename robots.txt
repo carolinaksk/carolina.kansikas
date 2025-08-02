@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://carolinaksk.github.io/carolina.kansikas.github.io/sitemap.xml
+Sitemap: carolina.kansikas.github.io/sitemap.xml
