@@ -6,7 +6,7 @@ subtitle: PhD Candidate | University of Warwick, UK
 
 profile:
   align: right
-  image: "IMG_2506 (1).JPG"
+  image: "IMG_2506.JPG"
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
